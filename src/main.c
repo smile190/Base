@@ -11,7 +11,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "printstring/printstr.inl"
+
 int main(int argc, char* argv[]) {
+
+	test_main(argc, argv);
 	puts("Change the world!\n");
 	return EXIT_SUCCESS;
 }
