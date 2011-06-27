@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(int argc, char* argv[]) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("Change the world!\n"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
